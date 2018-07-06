@@ -1,6 +1,6 @@
 .btn-blue {
   color: white;
-  background: #6772e5;
+  background: #F3234D;
   box-shadow: 0 4px 6px rgba(50,50,93,.11);
   border-radius: 4px;
   font-size: 20px;
@@ -9,6 +9,6 @@
   display: inline-block;
 }
 .btn-blue:hover {
-  background: #7795f8;
+  background: #EA8697;
   color: white;
 }

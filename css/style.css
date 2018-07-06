@@ -12,7 +12,7 @@
 /* --- Basic styles for fonts & colors --- */
 body {
   font-family: "Open Sans", "Helvetica", "sans-serif";
-  background: #F7F9FC;
+  background: ##EA8697;
   margin: 0;
 }
 h1, h2, h3 {
@@ -25,6 +25,6 @@ a {
 a:hover {
   color: #6A71E1;
 }
-.text-center {
+.text-center {s
   text-align: center;
 }
